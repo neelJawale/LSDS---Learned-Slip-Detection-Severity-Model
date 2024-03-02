@@ -1,1 +1,1 @@
-# LSDS---Learned-Slip-Detection-Severity-Model
+# LSDS:Learned-Slip-Detection-Severity-Model
